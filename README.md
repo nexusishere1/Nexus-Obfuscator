@@ -21,5 +21,5 @@ Nexus Obfuscator transforms any Python script into a short, encrypted stub that 
 No installation required – just download `nexus_obfuscator.py` and run it.
 
 ```bash
-git clone https://github.com/yourusername/NexusObfuscator.git
+git clone https://github.com/nexusishere1/NexusObfuscator.git
 cd NexusObfuscator
