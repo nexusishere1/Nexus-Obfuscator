@@ -11,14 +11,15 @@ Nexus Obfuscator transforms any Python script into a short, encrypted stub that 
 - ✅ **No Base64** – uses only XOR + hex encoding
 - ✅ **Built‑in compression** (zlib) – smaller output
 - ✅ **Random XOR key** per run (or fixed key if needed)
-- ✅ **Single‑file output** – just Python, no external dependencies
+- ✅ **Single‑file output** – just Python, 
 - ✅ **Fast & simple** – works with any Python 3.6+ script
 
 ---
 
-## 📦 Installation
+## 📦 Requirements
 
-No installation required – just download `nexus_obfuscator.py` and run it.
+- Python 3.6+
+- `customtkinter`
 
 ```bash
 git clone https://github.com/nexusishere1/NexusObfuscator.git
